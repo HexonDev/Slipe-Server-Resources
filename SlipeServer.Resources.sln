@@ -26,7 +26,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlipeServer.Resources.Reloa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlipeServer.Resources.Watermark", "SlipeServer.Resources.Watermark\SlipeServer.Resources.Watermark.csproj", "{F585724A-F07F-4FC5-94BD-E5911573C7C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlipeServer.Resources.BoneAttach", "SlipeServer.Resources.BoneAttach\SlipeServer.Resources.BoneAttach.csproj", "{F32A31EB-4F57-4689-B624-1729914EC25E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlipeServer.Resources.BoneAttach", "SlipeServer.Resources.BoneAttach\SlipeServer.Resources.BoneAttach.csproj", "{F32A31EB-4F57-4689-B624-1729914EC25E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlipeServer.Resources.DxProxy", "SlipeServer.Resources.DxProxy\SlipeServer.Resources.DxProxy.csproj", "{75F2BD35-5A0C-4E35-8BC8-56B82C60099C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -70,6 +72,10 @@ Global
 		{F32A31EB-4F57-4689-B624-1729914EC25E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F32A31EB-4F57-4689-B624-1729914EC25E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F32A31EB-4F57-4689-B624-1729914EC25E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F2BD35-5A0C-4E35-8BC8-56B82C60099C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F2BD35-5A0C-4E35-8BC8-56B82C60099C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F2BD35-5A0C-4E35-8BC8-56B82C60099C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F2BD35-5A0C-4E35-8BC8-56B82C60099C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
